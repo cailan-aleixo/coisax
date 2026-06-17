@@ -1,0 +1,19 @@
+body {
+    background-color: #b5b5b5;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #131313;
+}
+.botao2 {
+    display: block;
+    width:100px;
+    background-color: #131313;
+    color: #f3f3f3;
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
