@@ -2,21 +2,21 @@ body {
     background-color: #000000;
 }
 p {
-    color: #f9f9f9;
+    color: #efe6de;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 h1 {
-    color: #f9f9f9;
+    color: #efe6de;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 .botao {
     display: block;
     width:100px;
-    background-color: #f33283;
-    color: white;
-    padding: 5px 10px;
+    background-color: #9a0002;
+    color: #efe6de;
+    padding: 10px 20px;
     border-radius: 10px;
     text-decoration: none;
     text-align: center;
