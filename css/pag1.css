@@ -1,9 +1,9 @@
 body {
-    background-color: #bfd27d;
+    background-color: #BFD27D;
     text-align: center;
 }
 p {
-    color: #474c80;
+    color: #474C80;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
@@ -15,8 +15,8 @@ h1 {
 .botao {
     display: block;
     width:100px;
-    background-color: #bfd27d;
-    color: #474c80;
+    background-color: #474C80;
+    color: #BFD27D;
     padding: 10px 20px;
     border-radius: 10px;
     text-decoration: none;
