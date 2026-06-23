@@ -31,6 +31,7 @@ h2 {
 }
 .foto1 {
     border: 5px solid #c1121f;
+    width: 300px;
 }
 .imagens {
     display: flex;
