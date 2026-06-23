@@ -24,3 +24,19 @@ h1 {
     margin: 10px auto;
     font-family: 'Times New Roman', Times, serif;
 }
+h2 {
+    text-align: center;
+    color: #c1121f;
+    font-family: fantasy;
+}
+.foto1 {
+    border: 5px solid #c1121f;
+}
+.imagens {
+    display: flex;
+    gap: 5px;
+}
+.imagens img {
+    width: 50px;
+    border: 5px solid #c1121f;
+}
