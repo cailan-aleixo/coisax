@@ -9,6 +9,7 @@ h1 {
     text-align: center;
     border: 5px dotted #c1121f;
     padding: 10px;
+    font-size: 8px;
 }
 .foto1 {
     border: solid 5px #c1121f;
@@ -23,7 +24,7 @@ h1 {
     border: solid 5px #c1121f;
     border-radius: 10px;
     position: fixed;
-    top: 40%;
+    top: 60%;
     left: 10%;
     width: 10%;
     height: auto;
@@ -41,7 +42,7 @@ h1 {
     border: solid 5px #c1121f;
     border-radius: 10px;
     position: fixed;
-    top: 40%;
+    top: 60%;
     right: 10%;
     width: 10%;
     height: auto;
