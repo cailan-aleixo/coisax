@@ -31,13 +31,13 @@ h2 {
 }
 .foto1 {
     border: 5px solid #c1121f;
-    width: 300px;
+    width: 50%;
 }
-.imagens {
-    display: flex;
-    gap: 5px;
-}
-.imagens img {
-    width: 50px;
+.foto2 {
     border: 5px solid #c1121f;
+    width: 50%;
+}
+.foto3 {
+    border: 5px solid #c1121f;
+    width: 50%;
 }

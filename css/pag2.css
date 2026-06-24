@@ -1,0 +1,39 @@
+body {
+    background-color: #fdf0d5;
+    text-align: center;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c1121f;
+    text-align: center;
+    border: 5px dotted #c1121f;
+    padding: 10px;
+}
+.foto1 {
+    border: solid 5px #c1121f;
+    border-radius: 10px;
+    top: 20%;
+    left: 10%;
+    width: 50%;
+}
+.foto2 {
+    border: solid 5px #c1121f;
+    border-radius: 10px;
+    top: 40%;
+    left: 10%;
+    width: 50%;
+}
+.foto3 {
+    border: solid 5px #c1121f;
+    border-radius: 10px;
+    top: 20%;
+    right: 10%;
+    width: 50%;
+}
+.foto4 {
+    border: solid 5px #c1121f;
+    border-radius: 10px;
+    top: 40%;
+    right: 10%;
+    width: 50%;
+}
