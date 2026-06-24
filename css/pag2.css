@@ -17,6 +17,7 @@ h1 {
     top: 20%;
     left: 10%;
     width: 10%;
+    height: auto;
 }
 .foto2 {
     border: solid 5px #c1121f;
@@ -25,6 +26,7 @@ h1 {
     top: 40%;
     left: 10%;
     width: 10%;
+    height: auto;
 }
 .foto3 {
     border: solid 5px #c1121f;
@@ -33,6 +35,7 @@ h1 {
     top: 20%;
     right: 10%;
     width: 10%;
+    height: auto;
 }
 .foto4 {
     border: solid 5px #c1121f;
@@ -41,4 +44,5 @@ h1 {
     top: 40%;
     right: 10%;
     width: 10%;
+    height: auto;
 }
