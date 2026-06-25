@@ -56,3 +56,15 @@ p {
     width: 10%;
     height: auto;
 }
+.botao {
+    display: block;
+    width:100px;
+    background-color: #c1121f;
+    color: #fdf0d5;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
