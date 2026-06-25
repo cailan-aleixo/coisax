@@ -1,0 +1,31 @@
+body {
+    background-color: #fdf0d5;
+    text-align: center;
+    margin: 0;
+}
+h2 {
+    font-family: fantasy;
+    color: #c1121f;
+    text-align: center;
+}
+.imagens {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+.imagens img {
+    border: 10px solid #c1121f;
+    border-radius: 10px;
+    padding: 0;
+    width: 20%;
+}
+p {
+    color: #c1121f;
+    font-family: fantasy;
+    text-align: center;
+}
+h3 {
+    color: #c1121f;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
